@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MireaApp_6</string>
+    <string name="home_button">Home</string>
+    <string name="settings_button">Settings</string>
+    <string name="notification_button">Notifications</string>
+    <string name="humanity_s_last_hope">Humanity\'s last hope</string>
+    <string name="cannon">Cannon</string>
+    <string name="small_silly">Small Silly</string>
+    <string name="medium_silly">Medium Silly</string>
+    <string name="hard_silly">Hard Silly</string>
+    <string name="e_x_t_r_e_m_e">E x t r e m e</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

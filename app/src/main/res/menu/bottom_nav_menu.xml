@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/home_button" />
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/hooman"
+        android:title="@string/humanity_s_last_hope" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/silly"
+        android:title="@string/cannon" />
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/small"
+        android:title="@string/small_silly" />
+    <item
+        android:id="@+id/medium"
+        android:title="@string/medium_silly" />
+    <item
+        android:id="@+id/hard"
+        android:title="@string/hard_silly" />
+
+    <item
+        android:id="@+id/extreme"
+        android:title="@string/e_x_t_r_e_m_e" />
+    <!-- Добавьте дополнительные пункты здесь -->
+</menu>
